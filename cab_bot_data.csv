@@ -1,0 +1,141 @@
+Category,Category_label,Questions
+Fare_Estimation,,what is the estimated price  of my ride
+Fare_Estimation,,"what is the estimated price, i need to pay"
+Fare_Estimation,,how much will it cost 
+Fare_Estimation,,how much ola will charge me
+Fare_Estimation,,what is least price i need to pay
+Fare_Estimation,,how much do i need to pay 
+Cancel,,do ola have cancellation cost 
+Cancel,,"do ola charge you , if you cancel cab"
+Cancel,,what is the cancellation cost 
+Cancel,,cancellation charge for uber
+Cancel,,"how much do i need to pay, if i cancel it"
+Payment_Mode,,what is mode of payment 
+Payment_Mode,,paytm cash option available
+Payment_Mode,,change payment mode to this 
+Payment_Mode,,what is the payment method 
+Fare_Estimation,,which costs less ola share or uber pool
+Fare_Estimation,,how much ola share and uber pool will charge me 
+Fare_Estimation,,price different between ola and uber 
+Fare_Estimation,,cheapest route price
+Fare_Estimation,,price comparision of ola and uber 
+Fare_Estimation,,what is the estimated fare  of my ride
+Fare_Estimation,,what is the estimated cost  of my ride
+Fare_Estimation,,what is the estimated fare i need to pay
+Fare_Estimation,,"what is the estimated cost, i need to pay"
+Fare_Estimation,,how much uber will charge me
+Cancel,,do uber have cancellation cost 
+Cancel,,"do uber charge you , if you cancel cab"
+Cancel,,cancellation charge for ola
+Payment_Mode,,cash option available
+Payment_Mode,,card option available
+Payment_Mode,,paytm card option available
+Duration,,when will driver will reach my place
+Duration,,how long driver will take to reach here
+Duration,,how far is my cab
+Duration,,estimated  time of departure
+Duration,,estimated time for my cb to arrive
+Duration,,where is my cab
+Duration,,how long will it take to reach to my destination
+Duration,,when will i reach my destination
+Duration,,how long it will take to reach the destination
+Duration,,what is the expected time of departure
+Duration,,at what time i willl reach my destination
+Duration,,how long will be my journey
+Duration,,what is my journey duration
+Duration,,will i be able to reach my destination before 5:00 pm
+Duration,,when will my journey end
+Duration,,duration of journey
+Duration,,fastest route time
+Duration,,how far is my ola
+Duration,,how far is my uber
+Duration,,expected time of departure
+Duration,,tentative time of departure
+Duration,,what is the estimated time of departure
+Duration,,what is the expected time of arrival
+Duration,,what is the estimated time of arrival
+Duration,,at what time i willl reach my location
+Book,,book a cab
+Book,,get me a cab
+Look,,i need a cab  
+Look,,cabs available 
+Look,,can i get a cab 
+Book,,book a cab for airport 
+Book,,book a cab from my place
+Look,,are cabs available from my home 
+Look,,is there any cab nearby my place
+Look,,is there any cab available near foru mall 
+Look,,any ola present which can pick me up in 5 min 
+Look,,"need a cab, urgently"
+Look,,get me the cheapest cab available 
+Look,,get me the least expensive cab available 
+Book,,book a 6 seater cab for me
+Book,,book a cab for ooty from bangalore
+Book,,book a taxi from banagalore to ooty 
+Look,,get me an ola mini
+Look,,get me an uber pool
+Book,,book an uber for me 
+Look,,look for a cab near my place
+Book,,i want ola to drop me at dicyashree technopark 
+Book,,book a cab which can take me to my destination fastest 
+Book,,book a taxi
+Book,,book a ola
+Book,,book a uber
+Look,,are cabs available from my place
+Look,,are cabs available from my office
+Look,,are cabs available from my work 
+Look,,are cabs available from my hotel 
+Look,,are cabs available from my airport 
+Look,,are cabs available from my location 
+Look,,any uber present which can pick me up in 5 min 
+Look,,look for a cab near my place
+Book,,book a 7 seater cab for me
+Look,,get me an ola share
+Look,,get me an ola micro
+Look,,get me an ola prime
+Look,,get me an ola lux 
+Book,,book an ola mini
+Book,,book an ola share
+Book,,book an ola micro
+Book,,book an ola prime 
+Book,,book an ola lux 
+Look,,get me an uber go
+Look,,get me an uber x
+Look,,get me an uber xl 
+Book,,book an uber pool
+Book,,book an uber go
+Book,,book an uber x 
+Book,,book an uber xl 
+Book,,book an ola for me 
+Greetings,,Hi
+Greetings,,Hi!
+Greetings,,Hello
+Greetings,,"Hi, how are you?"
+Greetings,,how are you?
+Greetings,,Hi there!
+Greetings,,Hey
+Greetings,,Good Morning!
+Greetings,,Good Evening!
+Greetings,,Good Afternoon!
+Greetings,,Good Night!
+Greetings,,Thank You!
+Greetings,,You are welcome!
+Greetings,,How have you been?
+Greetings,,How are things?
+Greetings,,Thank you very much
+Greetings,,That's very kind of you.
+Greetings,,How is your day?
+Cancel,,i dont want to book this cab.
+Cancel,,cancel my cab.
+Cancel,,i dont want to go anywhere
+Cancel,,i dont want any cab
+Cancel,,cancel my booking
+Cancel,,cancel it
+Schedule,,i want to schedule a cab
+Schedule,,book a cab for me at 5:00 pm
+Schedule,,i want a cab at 5:00am 
+Schedule,,i will require a cab after an hour
+Schedule,,will cabs be available around 2:00pm
+Schedule,,schedule a ride for me
+Schedule,,get me a cab around 4:00pm
+Schedule,,make a booking for me later in evening
