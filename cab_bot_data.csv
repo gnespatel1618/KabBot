@@ -1,5 +1,12 @@
 Category,Category_label,Questions
 Fare_Estimation,,what is the estimated price  of my ride
+Fare_Estimation,,rate from x to y
+Fare_Estimation,,cost from x to y
+Fare_Estimation,,cost  of the cab
+Fare_Estimation,,cost to x
+Fare_Estimation,,current cab price
+Fare_Estimation,,current cab cost
+Fare_Estimation,,current cab rate
 Fare_Estimation,,"what is the estimated price, i need to pay"
 Fare_Estimation,,how much will it cost 
 Fare_Estimation,,how much ola will charge me
@@ -17,6 +24,8 @@ Payment_Mode,,what is the payment method
 Fare_Estimation,,which costs less ola share or uber pool
 Fare_Estimation,,how much ola share and uber pool will charge me 
 Fare_Estimation,,price different between ola and uber 
+Fare_Estimation,,cheapest cab available
+Fare_Estimation,,which is the cheapest cab 
 Fare_Estimation,,cheapest route price
 Fare_Estimation,,price comparision of ola and uber 
 Fare_Estimation,,what is the estimated fare  of my ride
@@ -66,17 +75,17 @@ Look,,are cabs available from my home
 Look,,is there any cab nearby my place
 Look,,is there any cab available near foru mall 
 Look,,any ola present which can pick me up in 5 min 
-Look,,"need a cab, urgently"
-Look,,get me the cheapest cab available 
-Look,,get me the least expensive cab available 
+Book,,"need a cab, urgently"
+Book,,get me the cheapest cab available 
+Book,,get me the least expensive cab available 
 Book,,book a 6 seater cab for me
 Book,,book a cab for ooty from bangalore
 Book,,book a taxi from banagalore to ooty 
-Look,,get me an ola mini
-Look,,get me an uber pool
+Book,,get me an ola mini
+Book,,get me an uber pool
 Book,,book an uber for me 
 Look,,look for a cab near my place
-Book,,i want ola to drop me at dicyashree technopark 
+Book,,i want an ola to drop me at dicyashree technopark 
 Book,,book a cab which can take me to my destination fastest 
 Book,,book a taxi
 Book,,book a ola
@@ -90,18 +99,18 @@ Look,,are cabs available from my location
 Look,,any uber present which can pick me up in 5 min 
 Look,,look for a cab near my place
 Book,,book a 7 seater cab for me
-Look,,get me an ola share
-Look,,get me an ola micro
-Look,,get me an ola prime
-Look,,get me an ola lux 
+Book,,get me an ola share
+Book,,get me an ola micro
+Book,,get me an ola prime
+Book,,get me an ola lux 
 Book,,book an ola mini
 Book,,book an ola share
 Book,,book an ola micro
 Book,,book an ola prime 
 Book,,book an ola lux 
-Look,,get me an uber go
-Look,,get me an uber x
-Look,,get me an uber xl 
+Book,,get me an uber go
+Book,,get me an uber x
+Book,,get me an uber xl 
 Book,,book an uber pool
 Book,,book an uber go
 Book,,book an uber x 
@@ -139,3 +148,30 @@ Schedule,,will cabs be available around 2:00pm
 Schedule,,schedule a ride for me
 Schedule,,get me a cab around 4:00pm
 Schedule,,make a booking for me later in evening
+Look,,i am looking for a cab
+Look,,i am looking for a ride
+Look,,I am looking for uber
+Look,,i am looking for ola
+Look,,is there any cab?
+Look,,Check for a cab
+Look,,Check if there is any cab 
+Look,,Check if there is any taxi
+Look,,Find a cab nearby
+Look,,Find a uber 
+Look,,Find an ola
+Fare_Estimation,,whats the charge
+Fare_Estimation,,charge from x to y
+Fare_Estimation,,what is the fare
+Fare_Estimation,,fare from x to y
+Fare_Estimation,,what is the charge
+Fare_Estimation,,what is the amount i need to pay
+Fare_Estimation,,expence of my ride
+Fare_Estimation,,expence from x to y
+Fare_Estimation,,amount from x to y
+Fare_Estimation,,what is the expected fare  of my ride
+Fare_Estimation,,what is the expected cost  of my ride
+Fare_Estimation,,what is the expected fare i need to pay
+Fare_Estimation,,"what is the expected cost, i need to pay"
+Duration,,how many miuntes will it take
+Duration,,How long will it take
+Duration,,how many hours will it take
