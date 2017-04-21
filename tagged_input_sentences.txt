@@ -36,3 +36,11 @@ estimate/JJ price/NN from/IN kormangla/NN to/TO whitfield/NNP
 book/NN a/DT cab/NN to/TO wipro/NNP ,/, whitefiled/NNP from/IN hsr/NN layout/NN
 estimate/VB the/DT price/NN for/IN the/DT travel/NN from/IN whitefiled/VBN to/TO teachers/NNS colony/NN
 estimate/NN cost/NN from/IN airport/NN to/TO marathalli/NNP
+book/VB a/DT cab/NN to/TO wipro/NNP ,/, bangalore/NNP from/IN stackroute/NNP ,/, koramangala/NNP
+book/VB a/DT cab/NN from/IN stackroute/NNP ,/, koramangala/NNP to/TO wipro/NNP ,/, bangalore/NNP
+book/VB a/DT cab/NN to/TO wipro/NNP ,/, electronic/NNP city/NNP ,/, bangalore/NNP from/IN stackroute/NNP ,/, koramangala/NNP ,/, bangalore/NNP
+book/VB a/DT cab/NN from/IN stackroute/NNP ,/, koramangala/NNP ,/, bangalore/NNP to/TO wipro/NNP ,/, electronic/NNP city/NNP ,/, bangalore/NNP
+book/VB a/DT cab/NN from/IN stackroute/NNP ,/, koramangala/NNP ,/, to/TO Forum/NNP mall/NNP ,/, koramangala/NNP ,/, bangalore/NNP
+book/VB a/DT cab/NN to/TO Forum/NNP mall/NNP ,/, koramangala/NNP ,/, bangalore/NNP from/IN stackroute/NNP ,/, koramangala/NNP
+book/VB a/DT cab/NN to/TO Divyashree/NNP technopark/NNP ,/, koramangala/NNP ,/, bangalore/NNP from/IN stackroute/NNP ,/, koramangala/NNP ,/, bangalore/NNP
+
