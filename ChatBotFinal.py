@@ -56,7 +56,7 @@ train_data = TaggedCorpusReader('.', 'tagged_input_sentences.txt', sep="/")
 traindata= list(train_data.tagged_sents())
 postag= load('taggers/maxent_treebank_pos_tagger/english.pickle')
 
-templates = [
+    templates = [
         brill.Template(brill.Pos([-1])),
         brill.Template(brill.Pos([1])),
         brill.Template(brill.Pos([-2])),

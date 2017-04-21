@@ -17,10 +17,6 @@ Cancel,,"do ola charge you , if you cancel cab"
 Cancel,,what is the cancellation cost 
 Cancel,,cancellation charge for uber
 Cancel,,"how much do i need to pay, if i cancel it"
-Payment_Mode,,what is mode of payment 
-Payment_Mode,,paytm cash option available
-Payment_Mode,,change payment mode to this 
-Payment_Mode,,what is the payment method 
 Fare_Estimation,,which costs less ola share or uber pool
 Fare_Estimation,,how much ola share and uber pool will charge me 
 Fare_Estimation,,price different between ola and uber 
@@ -36,9 +32,6 @@ Fare_Estimation,,how much uber will charge me
 Cancel,,do uber have cancellation cost 
 Cancel,,"do uber charge you , if you cancel cab"
 Cancel,,cancellation charge for ola
-Payment_Mode,,cash option available
-Payment_Mode,,card option available
-Payment_Mode,,paytm card option available
 Duration,,when will driver will reach my place
 Duration,,how long driver will take to reach here
 Duration,,how far is my cab
@@ -63,7 +56,12 @@ Duration,,tentative time of departure
 Duration,,what is the estimated time of departure
 Duration,,what is the expected time of arrival
 Duration,,what is the estimated time of arrival
+Duration,,what is the estimated duration of my cab
+Duration,,what is the estimated duration of my arrival
+Duration,,what is the expected duration of my arrival
 Duration,,at what time i willl reach my location
+Duration,,what is the estimated duration of my jouney
+Duration,,what is the expected duration of my journey
 Book,,book a cab
 Book,,get me a cab
 Look,,i need a cab  
@@ -140,14 +138,6 @@ Cancel,,i dont want to go anywhere
 Cancel,,i dont want any cab
 Cancel,,cancel my booking
 Cancel,,cancel it
-Schedule,,i want to schedule a cab
-Schedule,,book a cab for me at 5:00 pm
-Schedule,,i want a cab at 5:00am 
-Schedule,,i will require a cab after an hour
-Schedule,,will cabs be available around 2:00pm
-Schedule,,schedule a ride for me
-Schedule,,get me a cab around 4:00pm
-Schedule,,make a booking for me later in evening
 Look,,i am looking for a cab
 Look,,i am looking for a ride
 Look,,I am looking for uber
