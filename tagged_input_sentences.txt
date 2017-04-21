@@ -1,0 +1,38 @@
+i/NN want/VB to/TO go/VB to/TO pune/NNP
+i/NN want/VB to/TO go/VB to/TO pune/NNP
+book/NN the/DT cab/NN from/IN kormangla/NN to/TO whitefield/NNP
+book/NN the/DT cab/NN from/IN sarjapur/NN to/TO bellandur/NNP
+book/NN a/DT cab/NN from/IN shollingnallur/NN to/TO sowcarpet/NNP
+boook/VB a/DT cab/NN from/IN sowcarpet/NN to/TO vepery/NNP
+book/NN a/DT cab/NN to/TO marathalli/NNP
+book/NN a/DT cab/NN from/IN kormangla/NN to/TO hebbal/NNP
+can/MD you/PRP please/VB a/DT cab/NN from/IN hebbal/NN to/TO kormangla/NNP
+book/NN a/DT cab/NN to/TO hsr/VB layout/NN from/IN kormangla/NNP
+book/NN a/DT cab/NN from/IN hsr/NN layout/NN to/TO kormangla/NNP
+i/NN want/VBP to/TO book/NN a/DT cab/NN from/IN hsr/NN layout/NN to/TO kormangla/NNP
+book/NN a/DT cab/NN for/IN ganesh/NN from/IN hsr/NN layout/NN to/TO whitefield/NNP
+estimate/JJ price/NN from/IN kormangla/NN to/TO whitfield/NNP
+book/NN a/DT cab/NN to/TO wipro/VB ,/, whitefiled/VBN from/IN teacher/NN 's/POS colony/NNP
+estimate/VB the/DT price/NN for/IN the/DT travel/NN from/IN whitefiled/NNP to/TO teachers/NNS colony/NN
+estimate/NN cost/NN from/IN hebbal/NN to/TO marathalli/NNP
+book/NN a/DT cab/NN from/IN wipro/NN ,/, gate/NN 5/CD electronic/NN city/NN to/TO stack/NP route/NP ,/, kormangla/NNP
+how/WRB much/JJ the/DT ride/NN will/MD cost/VB from/IN kormangla/NN to/TO mg/NNP road/NN
+what/WP will/MD be/VB cost/NN of/IN the/DT ride/NN from/IN kormangla/NN to/TO mg/NNP road/NN
+i/NN am/VBP at/IN forum/NN mall/NN book/NN a/DT cab/NN to/TO electronic/NN city/NN
+what/WP is/VBZ the/DT travel/NN time/NN from/IN electronic/NN city/NN to/TO stackroute/NNP ,/, kormangla/NNP
+travel/NN time/NN from/IN sowcarpet/NN to/TO vepery/NNP
+travel/NN time/NN from/IN binny/JJ mills/NNS to/TO sowcarpet/NNP
+what/WP is/VBZ the/DT estimated/JJ time/NN from/IN sowcarpet/NN to/TO nagarpet/NNP
+what/WP is/VBZ the/DT estimated/JJ duration/NN from/IN hebbal/NN to/TO mg/NNP road/NN ?/.
+estimated/VBN durtion/NN from/IN hebbal/NN to/TO mg/NNP road/NN ?/.
+time/NN taken/VBN to/TO travel/VB to/TO hebbal/NNP from/IN doddanekundi/NN
+travel/NN time/NN to/TO hebbal/NNP from/IN doddanekundi/NN
+can/MD you/PRP please/VB a/DT cab/NN from/IN hebbal/NN to/TO marathalli/VB
+book/NN a/DT cab/NN to/TO hsr/NNP layout/NN from/IN adugodi/NN
+book/NN a/DT cab/NN from/IN kormangla/NNP 1st/CD block/NN to/TO kormangla/NNP
+i/NN want/VBP to/TO book/NN a/DT cab/NN from/IN bank/NN of/IN baroda/NN ,/, hsr/NN layout/NN to/TO kormangla/NNP
+book/NN a/DT cab/NN for/IN ganesh/NN from/IN hsr/NN layout/NN to/TO whitefield/NNP
+estimate/JJ price/NN from/IN kormangla/NN to/TO whitfield/NNP
+book/NN a/DT cab/NN to/TO wipro/NNP ,/, whitefiled/NNP from/IN hsr/NN layout/NN
+estimate/VB the/DT price/NN for/IN the/DT travel/NN from/IN whitefiled/VBN to/TO teachers/NNS colony/NN
+estimate/NN cost/NN from/IN airport/NN to/TO marathalli/NNP
